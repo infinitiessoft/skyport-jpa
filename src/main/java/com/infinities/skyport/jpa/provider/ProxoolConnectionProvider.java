@@ -3,7 +3,7 @@ package com.infinities.skyport.jpa.provider;
 /*
  * Hibernate, Relational Persistence for Idiomatic Java
  *
- * Copyright (c) 2007, Red Hat Middleware LLC or third-party contributors as
+ * Copyright 2007, 2015007, Red Hat Middleware LLC or third-party contributors as
  * indicated by the @author tags or express copyright attribution
  * statements applied by the authors. �All third-party contributions are
  * distributed under license by Red Hat Middleware LLC.
